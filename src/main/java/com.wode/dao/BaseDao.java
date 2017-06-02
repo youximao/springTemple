@@ -14,5 +14,5 @@ public class BaseDao<T> {
     HibernateTemplate getHibernateTemplate(){
         return hibernateTemplate;
     }
-
+    // 这是
 }
